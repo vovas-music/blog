@@ -88,7 +88,9 @@ My general suggestion here is:
 
 > Other things being equal, pick a cover that has that “something” that you can’t quite put your finger on, but you know it’s there.
 
-In my case, I played around with a couple dozens of Covers-of-a-Cover, ultimately shortlisting six (seven including the original cover): [1](https://suno.com/song/c4e333e4-3eb2-401d-8978-ae902aba7fbe) (the original one), [2](https://suno.com/song/c1cfa8aa-b77a-481d-8c97-e7fe7bbdd398), [3](https://suno.com/song/eb5208ae-3a0a-4842-b0c0-bf93e898f483), [4](https://suno.com/song/3a7fa01b-191b-46f7-8bc1-79f4e915c3e0), [5](https://suno.com/song/6d2fd74b-72ba-42e2-b9f3-08fb3e211db0), [6](https://suno.com/song/9b8f7c1c-65d9-48e2-b365-2623f82b5832), [7](https://suno.com/song/832ed9d7-3909-4fd5-be98-84efb5ba393c).
+In my case, I played around with a couple dozens of Covers-of-a-Cover, ultimately shortlisting six (seven including the original cover): [1](https://suno.com/song/c4e333e4-3eb2-401d-8978-ae902aba7fbe) (the original one), [2](https://suno.com/song/c1cfa8aa-b77a-481d-8c97-e7fe7bbdd398), [3](https://suno.com/song/eb5208ae-3a0a-4842-b0c0-bf93e898f483), [4](https://suno.com/song/3a7fa01b-191b-46f7-8bc1-79f4e915c3e0), [5](https://suno.com/song/6d2fd74b-72ba-42e2-b9f3-08fb3e211db0), [6](https://suno.com/song/9b8f7c1c-65d9-48e2-b365-2623f82b5832), [7](https://suno.com/song/832ed9d7-3909-4fd5-be98-84efb5ba393c):
+
+![Screenshot of a REAPER project with several tracks for the different Covers generated](/media/tango-picking-covers.png)
 
 I ultimately picked [the one named C2](https://suno.com/song/832ed9d7-3909-4fd5-be98-84efb5ba393c) because of the way it handled the bridge with the crescendoing toms. It also ticked the other boxes such as sound & voice quality. By the way, speaking of names,...
 
