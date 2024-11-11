@@ -19,3 +19,9 @@ Ever since Suno introduced Covers — the ability to generate a song using anoth
 But [this one](https://spti.fi/tango) is the first time I got to restoring my old Jukebox songs. It’s called “Disintegration Tango,” and it was one of the better-sounding ones I had back then. Still, even with [all the tips & tricks for improving quality](/misc/tbw.md), even the best Jukebox sound pales in comparison to what Suno can do today, so I was excited to see what I could do with it.
 
 First of all, here’s the original Jukebox song for reference:
+
+
+https://github.com/user-attachments/assets/a4db96c9-83bc-4093-93d3-cd867e911f6b
+
+
+
