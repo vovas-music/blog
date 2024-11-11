@@ -12,5 +12,6 @@ P.S. I know running a blog on GitHub looks weird, but I’m too lazy to set up a
 
 ## Latest posts
 
+- [Disintegration Tango: An old Jukebox song restored with Suno (including tips & tricks)](/2024/2024-11-11-disintegration-tango.md)
 - [Cover → Cover(s) of cover → Merge covers together and extend](/2024/2024-11-08-iterating-and-merging-covers.md)
 - [Udio vs Suno: technical differences, and what they have to do with Tesla and Edison](/2024/2024-10-11-suno-vs-udio.md)
