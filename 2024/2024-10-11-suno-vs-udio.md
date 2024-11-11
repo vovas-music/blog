@@ -2,7 +2,7 @@
 
 *October 11, 2024*
 
-*Originally posted as a [Reddit comment](https://www.reddit.com/r/SunoAI/comments/1g0tk3j/comment/lrbx2n9/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)*
+*Originally posted as a [Reddit comment](https://www.reddit.com/r/SunoAI/comments/1g0tk3j/comment/lrbx2n9)*
 
 I’ve been meaning to make a video about that but because I’m so lazy and because you asked, I guess a Reddit comment must do. Grab some tea.
 

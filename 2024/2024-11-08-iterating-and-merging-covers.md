@@ -2,7 +2,7 @@
 
 *November 8, 2024*
 
-*Originally posted as a [Reddit post](https://www.reddit.com/r/SunoAI/comments/1gmgjrx/comment/lw8dplt/?context=3)*
+*Originally posted as a [Reddit post](https://www.reddit.com/r/SunoAI/comments/1gmgjrx/comment/lw8dplt)*
 
 Hey all, wanted to share a little workflow I’ve been using a lot lately.
 
