@@ -2,7 +2,7 @@
 
 *November 11, 2024*
 
-*Links to song: [Spotify](https://spti.fi/tango) • [SoundCloud](https://soundcloud.com/vzkrv/disintegration-tango)*
+*Links to song: [Spotify](https://spti.fi/tango) • [SoundCloud](https://soundcloud.com/vzkrv/disintegration-tango) • [YouTube](https://www.youtube.com/watch?v=luma0sytVuM)*
 
 Ever since Suno introduced Covers — the ability to generate a song using another song as a prompt — I’ve been having a blast restoring my old songs. In the last couple of months, I’ve Covered three of my (dozens of) old MIDI tracks (tracks 8–10 on the [latest GENERATED album](https://spti.fi/generated-stories)) and released an entire [album of my father’s songs](https://spti.fi/papa-reka) in his memoriam.
 
