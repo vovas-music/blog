@@ -334,7 +334,7 @@ Previously I used [LANDR](https://www.landr.com) for mastering, but I find the h
 
 ---
 
-Damn, this post turned out to be WAY longer than I expected. It also took me WAY longer to write — so I’d be really greatful if you can hit that upvote button given that you’ve read this far.
+Damn, this post turned out to be WAY longer than I expected. It also took me WAY longer to write — so I’d be really grateful if you can hit that upvote button given that you’ve read this far.
 
 For those who just scrolled down here, here’s a
 
