@@ -12,6 +12,7 @@ P.S. I know running a blog on GitHub looks weird, but I’m too lazy to set up a
 
 ## Latest posts
 
+- [Combining two vocal tracks, e.g. v3 and v4, to get the same loudness](/2024/2024-12-03-combined-vocal-attenuation.md)
 - [Maximizing subscription value with a Pro-to-Premier switching strategy](/2024/2024-11-25-pro-to-premier-switching.md)
 - [Inserting v4 vocals into v3.5 tracks](/2024/2024-11-22-inserting-v4-vocals-into-v3.md)
 - [Disintegration Tango: An old Jukebox song restored with Suno (including tips & tricks)](/2024/2024-11-11-disintegration-tango.md)
