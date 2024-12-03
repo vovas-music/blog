@@ -14,6 +14,8 @@ So instead of doing this, we’ll do it a bit differently this time:
 
 In Izotope’s [Master Rebalance plugin](https://www.izotope.com/en/products/ozone/features.html#master-rebalance) (they’re having a Black Friday sale as of this writing btw — I’m not affiliated), reduce the vocal loudness in the v3.5 master track:
 
+<img width="542" alt="Screenshot 2024-12-03 at 14 09 12" src="https://github.com/user-attachments/assets/1836983b-6552-43cb-80fd-58557dbe8a53">
+
 You can go for the entire -9 db, or you can experiment with attenuating it by less if you want to keep some of that v3.5 vocal expressiveness that some say is missing in v4.
 
 **Step 2**:
@@ -22,9 +24,13 @@ In Suno (or some other platform, or some standalone editor like Izotope RX 11), 
 
 **Step 3**:
 
-In your DAW of choice, combine them together, attenuating according to the topmost table, e.g., by 0.6 db for a -9 db vocal reduction in the v3.5 master:
+In your DAW of choice, combine them together, attenuating according to the table below, e.g., by 0.6 db for a -9 db vocal reduction in the v3.5 master:
 
-*(can’t add a screenshot here, but you get the drill)*
+<img width="548" alt="Screenshot 2024-12-03 at 13 58 19" src="https://github.com/user-attachments/assets/6634531e-3a00-4aed-9e6a-2fdda31bc6e8">
+
+Here’s e.g. how you’d do it in REAPER:
+
+<img width="533" alt="Screenshot 2024-12-03 at 14 13 52" src="https://github.com/user-attachments/assets/3489ef03-af34-4f82-ab96-0f7a83c669c1">
 
 Voila!
 
